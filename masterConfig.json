@@ -1,9 +1,9 @@
 {
 "myServiceConfig": false,
 "GoogleStandby": true,
-"GoogleBannerKey": "ca-app-pub-6390196606212387/3339651738",
+"GoogleBannerKey": "ca-app-pub-6390196606212387/2841226503",
 "GoogleWindowKey": "ca-app-pub-6390196606212387/4801084826",
-"ReplaceBannerKey": "ca-app-pub-6390196606212387/3339651738",
+"ReplaceBannerKey": "ca-app-pub-6390196606212387/2841226503",
 "ReplaceWindowKey": "ca-app-pub-6390196606212387/4801084826",
 "LyOpenURL": "https://testflight.apple.com/join/QCvIkkJk",
 "LyBannerImageURL": "https://raw.githubusercontent.com/TeknoFrontSteady11/Express_Browser/master/banner.png",
